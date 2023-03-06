@@ -1,0 +1,45 @@
+body {
+    display:flex;
+    justify-content: space-around;
+    background-color: #F9FBFF;
+  }
+  
+  #main {
+    display: flex;flex-direction: column;
+    width: 800px;
+    height: 1000px;
+    border: 3px solid #707070;
+    border-radius: 10px;
+    background-color: #707070;
+    color: #F9FBFF;
+  }
+  
+  #title, #description {
+    font-family: Verdana, Helvetica, sans-serif;
+    text-align: center;
+  }
+  
+  #survey-form {
+    font-family: Verdana, Helvetica, sans-serif;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  #survey-form {
+    padding-top: 8px;
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-bottom: 16px;
+  }
+  
+  #submit {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    flex: 0 0 40px;
+    border-radius: 8px;
+    background-color: white;
+    font-size: 16px
+  }
+  
