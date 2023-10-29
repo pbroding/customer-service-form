@@ -1,4 +1,4 @@
 <h2>Customer Service Form</h2>
-<h4>Dive into my interactive example page, which features a customer form designed to showcase how seamless and user-friendly communication can be. I have included fields for your name, email, phone number, and an open space for any questions or inquiries related to our services.</h4>
+<h4>Dive into my interactive example page, which features a customer form designed to showcase how seamless and user-friendly communication can be. I have included fields for your name, email, phone number, and an open space for any questions or inquiries related to my services.</h4>
 <h4>Click on the HTML file linked to this webpage, and you can explore the form in action. It's a fantastic opportunity to get a feel for how the communication process works and how easy it is for you to provide me with essential information.</h4>
 <h4>Keep in mind that this webpage is purely an example, intended to demonstrate the functionality of the form. While you can interact with the form, please note that the information you provide here won't be processed, as this is a simulation.</h4>
